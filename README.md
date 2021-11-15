@@ -1,1 +1,1 @@
-http://automations.monster/
+https://automations.monster/
